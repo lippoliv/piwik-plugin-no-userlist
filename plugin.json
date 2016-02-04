@@ -1,0 +1,16 @@
+{
+  "name": "NoUserlist",
+  "version": "0.1.0",
+  "description": "Disables \"Users\" Menu for \"normal Users\".",
+  "theme": false,
+  "require": {
+    "piwik": ">=2.15.0"
+  },
+  "authors": [
+    {
+      "name": "Lipperts WEB",
+      "email": "support@lipperts-web.de",
+      "homepage": "http://lipperts-web.de"
+    }
+  ]
+}
