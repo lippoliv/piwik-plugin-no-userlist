@@ -6,9 +6,11 @@ Piwik Plugin to disable "Users" Menu for "normal Users".
 
 ## FAQ
 
-__My question?__
+__In wich case is this Plugin useful?__
 
-My answer
+In my case I host an Piwik instance for multiple users. Each of them has just access to one page or two.
+They know that they are not the only User in that Piwik-Instance but should not know who alse is User in that Instance.
+To do so, I use this Plugin to hide the list of other users.
 
 ## Changelog
 
